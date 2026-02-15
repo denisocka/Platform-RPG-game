@@ -11,6 +11,13 @@ This is a small platformer game developed in C# using WinForms. It was created f
 - Open inventory with tab
 - The game has many different items without functionality. In the future, they will be used to craft weapons, accessories, armor, etc.
 
+## Screenshots
+![](assets/screenshots/1.png)
+![](assets/screenshots/2.png)
+![](assets/screenshots/3.png)
+![](assets/screenshots/4.png)
+
+
 ## Technologies
 - C#
 - .NET
@@ -27,3 +34,4 @@ The project was created to:
 - Apply object-oriented programming principles
 - Structure code in a maintainable way
 - Gain experience with small game development
+
